@@ -1,7 +1,7 @@
 # FortiGate DMZ Segmentation & Stateful Firewall Lab
 
 ![Status](https://img.shields.io/badge/status-completed-brightgreen)
-![Platform](https://img.shields.io/badge/Platform-FortiGate%20VM-red)
+![Platform](https://img.shields.io/badge/Platform-FortiGate%20VM-purple)
 ![Hypervisor](https://img.shields.io/badge/Hypervisor-VMware-blue)
 ![Focus](https://img.shields.io/badge/Focus-DMZ%20%7C%20Network%20Segmentation%20%7C%20NAT-orange)
 
